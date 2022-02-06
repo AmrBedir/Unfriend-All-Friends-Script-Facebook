@@ -1,7 +1,8 @@
-# unfriend-all-friends-script
-Facebook: unfriend all friends
-Getting Started
-There are three simple steps in between you and the clarity of your Facebook account. There is a short script involved, which you will copy and paste into the console of the Developer tools of your browser (Firefox, Chrome) while navigating into the Facebook Friends page.
+# Facebook: unfriend all friends
+
+# Getting Started
+There are three simple steps in between you and the clarity of your Facebook account.
+There is a short script involved, which you will copy and paste into the console of the Developer tools of your browser (Firefox, Chrome) while navigating into the Facebook Friends page.
 
 In Short, what you will be doing:
 
