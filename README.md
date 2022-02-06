@@ -9,14 +9,14 @@ Get the script.
 Go to the Facebook Friends page.
 Run the script within the browser.
 
-#1. Get the script
+# 1. Get the script
 Copy in your clipboard the code
 
-#2. Go to the Facebook Messenger
+# 2. Go to the Facebook Messenger
 Go to the Facebook Friends page: https://www.facebook.com/YOUR-ID/friends
 Scroll all the way down until the last friend is shown in the thumbnail.
 
-#3. Run the script within the browser
+# 3. Run the script within the browser
 Press F12 to open the Developer tools window (Firefox, Chrome).
 Select Console.
 Read the security concerns message that the Facebook developers left for you.
